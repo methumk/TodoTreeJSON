@@ -1,0 +1,110 @@
+{
+    "todo-tree.highlights.defaultHighlight": {},
+    "todo-tree.highlights.customHighlight": {
+
+        "NOTE": {
+            "icon": "pencil",
+            "background": "#4285F4",
+            "foreground": "#000000",
+            "iconColour": "#4285F4"
+        },
+        "<PREV>": {
+            "icon": "arrow-right",
+            "background": "#f4429b",
+            "foreground": "#000000",
+            "iconColour": "#f4429b"
+        },
+        "<EPREV>": {
+            "icon": "arrow-left",
+            "background": "#f4429b",
+            "foreground": "#ffffff",
+            "iconColour": "#b700ff"
+        },
+        "<CURR>": {
+            "icon": "chevron-right",
+            "background": "#00ce2d",
+            "foreground": "#000000",
+            "iconColour": "#00ce2d"
+        },
+        "<ECURR>": {
+            "icon": "chevron-left",
+            "background": "#00ce2d",
+            "foreground": "#ffffff",
+            "iconColour": "#c5ff3d"
+        },
+        "|>": {
+            "icon": "arrow-right",
+            "background": "#f4429b",
+            "foreground": "#000000",
+            "iconColour": "#f4429b"
+        },
+        "<|": {
+            "icon": "arrow-left",
+            "background": "#f4429b",
+            "foreground": "#ffffff",
+            "iconColour": "#b700ff"
+        },
+        "<||": {
+            "icon": "chevron-right",
+            "background": "#00ce2d",
+            "foreground": "#000000",
+            "iconColour": "#00ce2d"
+        },
+        "||>": {
+            "icon": "chevron-left",
+            "background": "#00ce2d",
+            "foreground": "#ffffff",
+            "iconColour": "#c5ff3d"
+        },
+        "TESTING": {
+            "icon": "beaker",
+            "background": "#00afce",
+            "foreground": "#ffffff",
+            "iconColour": "#00afce"
+        },
+        "CLEAN": {
+            "icon": "squirrel",
+            "background": "#9e5400",
+            "foreground": "#ffffff",
+            "iconColour": "#9e5400"
+        },
+        "BUG": {
+            "icon": "bug"
+        },
+        "HACK": {
+            "icon": "tools"
+        },
+        "FIXME": {
+            "icon": "flame"
+        },
+        "XXX": {
+            "icon": "x"
+        },
+        "[ ]": {
+            "icon": "issue-draft"
+        },
+        "[x]": {
+            "icon": "issue-closed"
+        }
+    },
+    "todo-tree.general.tags": [
+        "BUG",
+        "HACK",
+        "FIXME",
+        "TODO",
+        "XXX",
+        "[ ]",
+        "[x]",
+        "NOTE",
+        "<PREV>",
+        "<EPREV>",
+        "<CURR>",
+        "<ECURR>",
+        "<|",
+        "|>",
+        "<||",
+        "||>",
+        "TESTING",
+        "CLEAN",
+    ]
+}
